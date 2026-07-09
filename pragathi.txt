@@ -1,1 +1,2 @@
 Welcome to Devops Training from Pragathi Tech
+We just started with GIT VCS
